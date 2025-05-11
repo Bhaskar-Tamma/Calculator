@@ -48,18 +48,18 @@ body{
 }
 #equals{
     background-color: springgreen;
-    inline-size: 30%;
+    inline-size: 35%;
     padding: 5px;
     margin: 4%;
     text-align: center;
     border-radius: 20%;
 }
 #his{
-    background-color: indigo;
-    inline-size: 30%;
+    background-color: greenyellow;
+    inline-size: 35%;
     padding: 5px;
     margin: 4%;
     text-align: center;
     border-radius: 20%;
-    margin-right: 25%;
+    margin-right: 15%;
 }
