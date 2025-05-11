@@ -1,0 +1,65 @@
+body{
+    background-color: darkslategray;
+    padding: 5%;
+    border: 1px solid black;
+    padding-left: 40%;
+}
+.calc{
+    background-color: whitesmoke;
+    inline-size: 200px;
+    padding: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+    margin: 8%;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+.box{
+    background-color: lightgray;
+    inline-size: 180px;
+    padding: 10px;
+    margin: 2%;
+    border: 1px static gray;
+    border-radius: 5%;
+}
+.operator{
+    background-color: yellow;
+    inline-size: 30px;
+    padding: 5px;
+    margin: 4%;
+    text-align: center;
+    border-radius: 20%;
+}
+.num{
+    background-color: cornflowerblue;
+    inline-size: 30px;
+    padding: 5px;
+    margin: 4%;
+    text-align: center;
+    border-radius: 20%;
+}
+#clear{
+    background-color: orangered;
+    inline-size: 30px;
+    padding: 5px;
+    margin: 4%;
+    text-align: center;
+    border-radius: 20%;
+}
+#equals{
+    background-color: springgreen;
+    inline-size: 30%;
+    padding: 5px;
+    margin: 4%;
+    text-align: center;
+    border-radius: 20%;
+}
+#his{
+    background-color: indigo;
+    inline-size: 30%;
+    padding: 5px;
+    margin: 4%;
+    text-align: center;
+    border-radius: 20%;
+    margin-right: 25%;
+}
